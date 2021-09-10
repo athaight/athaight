@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @athaight
-- 👀 I’m interested in Web Development / Linux
-- 🌱 I’m currently learning Full Stack Web, Javascript, how to be a human.
-- 💞️ I’m learning rn.
-- 📫 haight.haight@gmail.com
+- 👀 I’m interested in Web Development / Linux / Illustration and Animation
+- 🌱 I’m currently learning Full Stack Web, Javascript, Animation, and how to be a human.
+- 💞️ I’m still drawing a lot too.
+- 📫 haightdevelopment.com
 
 <!---
 athaight/athaight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
