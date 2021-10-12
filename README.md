@@ -9,8 +9,9 @@
       \::/  /:/  /          \::/  /      \::/  /\::/__/    \:\ \:\__\       \::/  /:/  /     
       /:/  /\/__/           /:/  /       /:/  /  \:\__\     \:\/:/  /       /:/  /\/__/      
      /:/  /                /:/  /       /:/  /    \/__/      \::/  /       /:/  /            
-     \/__/                 \/__/        \/__/                 \/__/        \/__/                                                           
+     \/__/                 \/__/        \/__/                 \/__/        \/__/
 ```
+
 - 👋 Hi, I’m @athaight
 - 👀 I’m interested in Web Development / Linux / Illustration and Animation
 - 🌱 I’m currently learning Full Stack Web Development, Javascript, Animation, and how to be a human.
