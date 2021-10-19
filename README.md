@@ -19,10 +19,9 @@
 - 📫 haightdevelopment.com
 - 📞 (480) 447-9905‬
 
-I'm a green developer, but that isn't a bad thing in my eyes because everyday is exciting with the possibility to learn some new radical thing about development, and I have so much to look forward to learning. 😎
+I'm a green developer, but that isn't a bad thing in my eyes because within everyday is the possibility to learn some new radical thing about development, and I have so much to look forward to learning. 😎
 
-Front-end is where I have been having the most fun because I enjoy design and aesthetics, but the back-end stuff, especially with databases, is so fascinating that I hope to have the opportunity to further develop in this area of knowledge.
-
+Front-end is where I have been having the most fun because I enjoy design and aesthetics, but the back-end stuff, especially with databases, is so fascinating that I hope to have the opportunity to further develop in this area.
 Being helpful and productive are qualities I thrive on, and while development experience may be what I'm lacking, that will be addressed with time and will be embellished with the other experiences, knowledge, and desire to progress that I have. I truly want to be a contributing member of a team/project and commit to the growth and success of any venture I can be involved with. 
  
 
